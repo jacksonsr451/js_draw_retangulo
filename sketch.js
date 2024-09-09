@@ -8,6 +8,6 @@ function draw() {
   fill("red")
   
   if (mouseIsPressed) {
-    rect(mouseX,mouseY,20,35)
+    rect(mouseX,mouseY,5,5)
   }
 }
